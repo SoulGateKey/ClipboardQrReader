@@ -4,7 +4,6 @@
 
 最初用途快捷的将舞萌二维码转换为字符串方便调试。
   
-**免责声明：本项目完全由Claude Haiku 4.5编写，不代表仓库作者代码水平！！！ 一般也不会再进行维护，有需求提pr也是ai回（（**
 ## 功能
 
 - 持续监听系统剪贴板，检测图片变化
@@ -63,3 +62,10 @@ ClipboardQrReader.Tests/   # 单元测试与属性测试（xUnit + FsCheck）
 - [Microsoft.Toolkit.Uwp.Notifications](https://github.com/CommunityToolkit/WindowsCommunityToolkit) — Windows Toast 通知
 - [xUnit](https://xunit.net/) — 单元测试框架
 - [FsCheck](https://fscheck.github.io/FsCheck/) — 属性测试框架
+
+
+## 免责声明
+
+**本项目完全由Claude Haiku 4.5编写，不代表仓库作者代码水平！！！**  
+一般也不会再进行维护，有需求提pr也是ai回（（
+> "以上代码我均未编写过、审阅过，和我写的完全不相符。"
